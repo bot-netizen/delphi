@@ -3,7 +3,7 @@ package ca.ix.delphi.common
 object Constants {
 
   val PROCESS_THREADS = 3
-  val LIVY_URL = "http://10.5.57.221:8999/batches/"
+  val LIVY_URL = ""
   val CONFIG_PATH = "conf"
   //val PROCESS_DATE=
   //val PROCESS_HOUR=
